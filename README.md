@@ -35,4 +35,4 @@ Follow these steps to run the project locally:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dice-game.git
+   https://github.com/arb-108/React-Dice-Game.git
