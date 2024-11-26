@@ -15,7 +15,12 @@ A fun and interactive **Dice Game** built using **React.js**. The game allows pl
 
 ## Demo 🌟
 
-[Add link to hosted version or screenshot if available.]
+
+![Dice_Game_react_1](https://github.com/user-attachments/assets/d4b1c022-f845-4dee-8a9f-017787eaa99b)
+
+
+![Dice_Game_react_2](https://github.com/user-attachments/assets/6fe8185b-14f2-4dcb-95d6-c7a28ce60146)
+
 
 ---
 
